@@ -15,7 +15,7 @@
 
 ## 적용법
 
-폴더 하나 만들고 CMD 킨다음에
+폴더를 하나 만드시고 CMD를 
 
 ```git
 git clone https://github.com/bearteng09/MontyHallProblemSolver.git
