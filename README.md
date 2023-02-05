@@ -4,7 +4,9 @@
 
 # **몬티홀 딜레마란?**
 
-몬티홀 딜레마 설명은 [**여기서**]([https://en.wikipedia.org/wiki/Monty_Hall_problem](https://ko.wikipedia.org/wiki/%EB%AA%AC%ED%8B%B0_%ED%99%80_%EB%AC%B8%EC%A0%9C))
+몬티홀 딜레마 설명은 [**여기서**](https://ko.wikipedia.org/wiki/%EB%AA%AC%ED%8B%B0_%ED%99%80_%EB%AC%B8%EC%A0%9C)
+
+
 
 # **코드 실행해보는 방법**
 ## **준비물**
